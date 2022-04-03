@@ -1,2 +1,3 @@
-# notes_and_snippet
+# NOTES AND SNIPPETS
+
 Personal Notes and Snippets
